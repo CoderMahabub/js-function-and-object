@@ -19,8 +19,6 @@ else {
     console.log('I dont know');
 }
 
-
-
 //while Loop
 var i = 0;
 while (i < 7) {
