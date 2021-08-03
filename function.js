@@ -13,4 +13,4 @@ startFan();
 var country = 'Bd';
 var city = 'Dhaka';
 
-startFan();
+startFan();,
